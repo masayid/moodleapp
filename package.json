@@ -1,9 +1,9 @@
 {
-  "name": "moodlemobile",
+  "name": "PJJ-SMANTI",
   "version": "3.8.2",
-  "description": "The official app for Moodle.",
+  "description": "The official app for SMANTI.",
   "author": {
-    "name": "Moodle Pty Ltd.",
+    "name": "yazid Mubasir",
     "email": "mobile@moodle.com"
   },
   "config": {
