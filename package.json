@@ -1,10 +1,10 @@
 {
-  "name": "smantisinau",
-  "version": "1.0.0",
-  "description": "The official app PJJ Smanti.",
+  "name": "moodlemobile",
+  "version": "3.8.2",
+  "description": "The official app for Moodle.",
   "author": {
-    "name": "Yazid Mubasir",
-    "email": "masayid09@gmail.com"
+    "name": "Moodle Pty Ltd.",
+    "email": "mobile@moodle.com"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
@@ -190,7 +190,7 @@
   },
   "main": "desktop/electron.js",
   "build": {
-    "appId": "id.sch.sman3purworejo.sinau",
+    "appId": "com.moodle.moodledesktop",
     "productName": "Moodle Desktop",
     "files": [
       "desktop/electron.js",
