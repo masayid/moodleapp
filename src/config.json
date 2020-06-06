@@ -61,12 +61,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "http://sinau.sman3purworejo.sch.id",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "http://sinau.sman3purworejo.sch.id",
             "username": "teacher",
             "password": "moodle"
         }
@@ -77,8 +77,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://sinau.sman3purworejo.sch.id",
+    "sitename": "SMA Negeri 3 Purworejo",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
